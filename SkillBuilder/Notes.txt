@@ -1,0 +1,17 @@
+﻿TODO:
+
+Not sure about Teleport abilities.  I feel like it could be done better.
+
+
+
+
+Final program should be:
+
+Select a character and see:
+	HP/MP/SP
+	Stats
+	Link to Passives
+		Passive-builder similar to the Skill builder will go here
+	Link to SKills
+		Existing Skill builder will go here
+	I could do a link to Gear, but that's not really the point right now
